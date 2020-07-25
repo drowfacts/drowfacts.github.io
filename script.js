@@ -29,7 +29,7 @@ for (i = 1; i<=rndexclaimcount; i++) {
   rndexclaim = rndexclaim + "!"
 }
 
-document.write("<p>"+rndsalu+"\n"+rndfact+" Thanks for using DrowFacts"+rndexclaim+"</p>");
+document.write("<p>"+rndfact+" Thanks for using DrowFacts"+rndexclaim+"</p>");
 });
 
 
